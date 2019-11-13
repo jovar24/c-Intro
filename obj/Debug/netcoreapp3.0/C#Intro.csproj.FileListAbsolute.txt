@@ -1,0 +1,11 @@
+C:\Users\jovar\Documents\C#Intro\bin\Debug\netcoreapp3.0\C#Intro.exe
+C:\Users\jovar\Documents\C#Intro\bin\Debug\netcoreapp3.0\C#Intro.deps.json
+C:\Users\jovar\Documents\C#Intro\bin\Debug\netcoreapp3.0\C#Intro.runtimeconfig.json
+C:\Users\jovar\Documents\C#Intro\bin\Debug\netcoreapp3.0\C#Intro.runtimeconfig.dev.json
+C:\Users\jovar\Documents\C#Intro\bin\Debug\netcoreapp3.0\C#Intro.dll
+C:\Users\jovar\Documents\C#Intro\bin\Debug\netcoreapp3.0\C#Intro.pdb
+C:\Users\jovar\Documents\C#Intro\obj\Debug\netcoreapp3.0\C#Intro.csprojAssemblyReference.cache
+C:\Users\jovar\Documents\C#Intro\obj\Debug\netcoreapp3.0\C#Intro.AssemblyInfoInputs.cache
+C:\Users\jovar\Documents\C#Intro\obj\Debug\netcoreapp3.0\C#Intro.AssemblyInfo.cs
+C:\Users\jovar\Documents\C#Intro\obj\Debug\netcoreapp3.0\C#Intro.dll
+C:\Users\jovar\Documents\C#Intro\obj\Debug\netcoreapp3.0\C#Intro.pdb
